@@ -1,0 +1,1 @@
+VERSÃO DA BALEYS ATUAL: v7.0.0-rc.9
